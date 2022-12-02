@@ -18,6 +18,8 @@ Simple python library for access to data from jwstapi.com
 JWSTapipy is a simple python library to work with data provided by the site [https://jwstapi.com/](https://jwstapi.com/)
 The site provides James Webb Space Telescope data. Data is sourced from MAST, processed and exposed through API.
 
+Tested on JWST API version 0.0.15
+
 ## Get JWSTapipy
 ```python
 pip install jwstapipy
